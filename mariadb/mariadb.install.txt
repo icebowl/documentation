@@ -1,0 +1,5 @@
+
+As root type:
+mysql_secure_installation 
+to configure mariadb.
+Document root password.
